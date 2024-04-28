@@ -1,0 +1,10 @@
+.social-links {
+    display: flex;
+    flex-direction: row;
+}
+
+.social-link {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
