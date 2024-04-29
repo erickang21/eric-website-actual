@@ -8,7 +8,7 @@ const SocialLink = ({ icon, name, url }: SocialLinkProps): React.ReactElement =>
     <a href={url} target="_blank" rel="noopener noreferrer">
         <div className="social-link">
             {icon}
-            {name}
+            <span className="social-link-name">{name}</span>
         </div>
     </a>
 );
