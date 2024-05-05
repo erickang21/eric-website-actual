@@ -1,4 +1,28 @@
+/*! ../components/Body */
+
+/*! ../components/Header */
+
+/*! ../css/components/Body.css */
+
+/*! ../css/components/Header.css */
+
+/*! ../css/components/SocialLinks.css */
+
+/*! ../css/pages/Home.css */
+
+/*! ../icons/email.svg */
+
+/*! ../icons/github.svg */
+
+/*! ../icons/linkedin.svg */
+
+/*! ../icons/spotify.svg */
+
 /*! ./App */
+
+/*! ./App.css */
+
+/*! ./SocialLinks */
 
 /*! ./cjs/react-dom.development.js */
 
@@ -8,7 +32,11 @@
 
 /*! ./index.css */
 
+/*! ./pages/Home */
+
 /*! ./reportWebVitals */
+
+/*! import() */
 
 /*! react */
 
@@ -18,25 +46,71 @@
 
 /*! scheduler */
 
-/*!********************!*\
-  !*** ./src/App.js ***!
-  \********************/
+/*! web-vitals */
+
+/*!*********************!*\
+  !*** ./src/App.css ***!
+  \*********************/
+
+/*!*********************!*\
+  !*** ./src/App.tsx ***!
+  \*********************/
 
 /*!***********************!*\
   !*** ./src/index.css ***!
   \***********************/
 
-/*!***********************!*\
-  !*** ./src/index.tsx ***!
-  \***********************/
+/*!****************************!*\
+  !*** ./src/pages/Home.tsx ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./src/icons/email.svg ***!
+  \*****************************/
+
+/*!******************************!*\
+  !*** ./src/icons/github.svg ***!
+  \******************************/
+
+/*!*******************************!*\
+  !*** ./src/icons/spotify.svg ***!
+  \*******************************/
+
+/*!********************************!*\
+  !*** ./src/css/pages/Home.css ***!
+  \********************************/
+
+/*!********************************!*\
+  !*** ./src/icons/linkedin.svg ***!
+  \********************************/
 
 /*!********************************!*\
   !*** ./src/reportWebVitals.js ***!
   \********************************/
 
+/*!*********************************!*\
+  !*** ./src/components/Body.tsx ***!
+  \*********************************/
+
+/*!***********************************!*\
+  !*** ./src/components/Header.tsx ***!
+  \***********************************/
+
 /*!*************************************!*\
   !*** ./node_modules/react/index.js ***!
   \*************************************/
+
+/*!*************************************!*\
+  !*** ./src/css/components/Body.css ***!
+  \*************************************/
+
+/*!***************************************!*\
+  !*** ./src/css/components/Header.css ***!
+  \***************************************/
+
+/*!****************************************!*\
+  !*** ./src/components/SocialLinks.tsx ***!
+  \****************************************/
 
 /*!*****************************************!*\
   !*** ./node_modules/react-dom/index.js ***!
@@ -50,6 +124,10 @@
   !*** ./node_modules/react-dom/client.js ***!
   \******************************************/
 
+/*!********************************************!*\
+  !*** ./src/css/components/SocialLinks.css ***!
+  \********************************************/
+
 /*!*****************************************************!*\
   !*** ./node_modules/react/cjs/react.development.js ***!
   \*****************************************************/
@@ -61,26 +139,6 @@
 /*!*************************************************************!*\
   !*** ./node_modules/scheduler/cjs/scheduler.development.js ***!
   \*************************************************************/
-
-/**
- * @license React
- * react-dom.development.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/**
- * @license React
- * scheduler.development.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
 
 /**
  * Checks if an event is supported in the current execution environment.
