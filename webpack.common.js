@@ -30,13 +30,12 @@ module.exports = {
   ],
   output: {
     filename: "index.bundle.js",
-    path: path.resolve(__dirname, "dist"),
+    path: path.resolve(__dirname, "public"),
     clean: true,
     publicPath: "",
   },
   devServer: {
     historyApiFallback: true,
-    allowedHosts: ".ericworksfor.me",
   },
   // Defines file extensions that will be used here.
   resolve: {
