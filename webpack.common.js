@@ -36,8 +36,7 @@ module.exports = {
   },
   devServer: {
     historyApiFallback: true,
-    disableHostCheck: true,
-    public: "ericworksfor.me",
+    allowedHosts: ".ericworksfor.me",
   },
   // Defines file extensions that will be used here.
   resolve: {
