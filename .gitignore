@@ -3,10 +3,11 @@
 # dependencies
 /node_modules
 /public
+/dist
 package-lock.json
 /.pnp
 .pnp.js
-.idea
+/.idea
 
 # testing
 /coverage
